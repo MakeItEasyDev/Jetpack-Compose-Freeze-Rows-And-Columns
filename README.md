@@ -1,1 +1,1 @@
-# Jetpack-Compose-Freeze-Row-s-And-Column-s
+# Jetpack-Compose-Freeze-Rows-And-Columns
